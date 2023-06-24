@@ -1,0 +1,16 @@
+﻿D:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(glvu.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main_wm.cpp
+C:\Users\Lgr\Desktop\计算机图形学\assignment6\3rdparty\include\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Lgr\Desktop\计算机图形学\assignment6\3rdparty\include\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Lgr\Desktop\计算机图形学\assignment6\3rdparty\include\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  matlab_utils.cpp
+C:\Users\Lgr\Desktop\计算机图形学\assignment6\3rdparty\include\eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Lgr\Desktop\计算机图形学\assignment6\3rdparty\include\eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Lgr\Desktop\计算机图形学\assignment6\3rdparty\include\eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  objloader.cpp
+  正在生成代码...
+  gl_core_3_3.c
+    正在创建库 C:\Users\Lgr\Desktop\计算机图形学\assignment6\glvu\x64\Debug\glvu_matlab.lib 和对象 C:\Users\Lgr\Desktop\计算机图形学\assignment6\glvu\x64\Debug\glvu_matlab.exp
+  glvu_matlab.vcxproj -> C:\Users\Lgr\Desktop\计算机图形学\assignment6\glvu\x64\Debug\glvu_matlab.exe
+  copy "C:\Users\Lgr\Desktop\计算机图形学\assignment6\glvu\x64\Debug\glvu_matlab.exe" "C:\Users\Lgr\Desktop\计算机图形学\assignment6\glvu\"
+  已复制         1 个文件。
